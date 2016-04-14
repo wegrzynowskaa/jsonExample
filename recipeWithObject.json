@@ -1,0 +1,9 @@
+{
+  "name" : "Pierogi ruskie",
+  "description" : "Tradycyjny rodzaj pierogów, z farszem ziemniaczano - serowym.",
+  "ingredients" : {
+    "name" : "Mąka, ciepła woda, ser biały, pół kilo ziemniaków i dwie duże cebule",
+    "measure" : "Wszystko dawałam na oko..."
+  },
+  "instruction" : "1. Mąkę zagnieść z ciepłą wodą na ciasto. \n 2. Ziemniaki dokładnie rozgnieść. \n 3. Cebulę drobno pokroić, posolić i podsmażyć na maśle na złoty kolor. \n4. Ser dokładnie rozmieszać z cebulką i ziemniakami. \n5. Wykrawać okręgi z ciasta, napełnić ciastem i zagnieść na pierogi. \n6. Najlepiej podawać z zasmażką z smażonej cebuli bądź cebuli z boczkiem, polane kwaśną śmietaną. "
+}
